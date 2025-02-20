@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+h1,
+h2,
+p {
+    font-family: sans-serif, 'Times New Roman';
+    text-align: center;
+}
+h2.no-center {
+    text-align: left;
+    margin-left: 25px;
+}
+ul,
+ol,
+p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 35px;
+}
+h2 {
+    font-size: 28px;
+}
+.links {
+    margin-left: 400px;
+}
